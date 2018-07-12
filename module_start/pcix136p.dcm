@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCIx136p
+D PCIx1 36p
+K connector pci
+F ~
+$ENDCMP
+#
+#End Doc Library

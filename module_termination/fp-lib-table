@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name uC)(type Github)(uri https://github.com/KiCad/Housings_QFP.pretty)(options "")(descr ""))
+  (lib (name Connector_PCIx1)(type KiCad)(uri "$(KIPRJMOD)/Connector_PCIx1.pretty")(options "")(descr ""))
+  (lib (name Conn2)(type Github)(uri https://github.com/Tinkerforge/kicad-libraries)(options "")(descr ""))
+)
